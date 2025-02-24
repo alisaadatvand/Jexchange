@@ -1,6 +1,6 @@
 header {
   width: 100%;
-  height: 35vh;
+  max-height: 320px;
   background-color: #131919;
   padding: 16px 0px;
   box-sizing: border-box;

@@ -6,8 +6,9 @@
   justify-content: center;
   align-items: center;
   column-gap: 18px;
-  position: absolute;
-  bottom: 55%;
+  margin-top: 40px;
+  /* position: absolute; */
+  /* bottom: 55%; */
   z-index: 2;
   .card {
     min-width: 21.5vw;
